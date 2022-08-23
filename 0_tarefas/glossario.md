@@ -9,6 +9,8 @@ assédio - exposição de alguém a situações humilhantes;
 
 axioma - sentença não provada de consenso inicial;
 
+compliance - técnica de transparência vertical e horizontal. Todos os colaboradores sabem de tudo o que acontece na instituição;
+
 decreto - ordem desginada por orgão legítimo superior;
 
 direito do consumidor - é um ramo do direito que garante os direitos do consumidor na relação com fornecedores/empresas;

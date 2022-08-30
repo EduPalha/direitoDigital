@@ -9,7 +9,7 @@ assédio - exposição de alguém a situações humilhantes;
 
 axioma - sentença não provada de consenso inicial;
 
-compliance - técnica de transparência vertical e horizontal. Todos os colaboradores sabem de tudo o que acontece na instituição;
+compliance - técnica de transparência vertical e horizontal. Todos os colaboradores sabem de tudo o que acontece na instituição; Ambiente hostil; Conjunto de mecanismos (normas e regulamentos);
 
 decreto - ordem desginada por orgão legítimo superior;
 
@@ -32,6 +32,8 @@ patente - propriedade temporária outorgada pelo estado para impedir reproduçã
 norma - designar algumas ações ou resultados como bons, desejáveis e outros como ruins, indesejáveis;
 
 outorga - ato de conscentir, dar, conceder, autorizar, liçensa;
+
+outsource - processo de terceirização mais aprofundado, pois se transfere a responsabilidade de setores vitais da empresa para outra; reduzir custos e melhorar desempenho(qualidade e tecnologia) nos processos da empresa; eficiência; aninhavar com tendências mercadológicas; reduzir deficiências; compliance age de forma mais incisiva;
 
 registro - é uma forma de comprovar que o produto segue todas as normas e leis relacionadas e exigidas pelo órgão responsável;
 

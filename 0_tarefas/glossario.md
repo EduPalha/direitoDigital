@@ -15,6 +15,8 @@ decreto - ordem desginada por orgão legítimo superior;
 
 direito do consumidor - é um ramo do direito que garante os direitos do consumidor na relação com fornecedores/empresas;
 
+home office - há uso de equipamento? uso de recursos pessoais? tempo e horário? clt/pessoa fisica. Constituição de CNPJ não tem esses direitos e vale aquilo que está no contrato
+
 jec - juizado especial cívil para resolver conflitos simples e prestar serviços de forma mais objetiva; até 20 salários mínimos não necessita advogado; entre 20 - 40 precisa;
 
 jurisprudência - conjunto de interpretações das leis feitas pelos tribunais legítimos;

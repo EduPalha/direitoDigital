@@ -23,7 +23,7 @@ jec - juizado especial cívil para resolver conflitos simples e prestar serviço
 
 jurisprudência - conjunto de interpretações das leis feitas pelos tribunais legítimos;
 
-licença - regras contratuais de uso. Github tem 12 tipos de licença. BSD é uma das mais comuns(APACHE, Postgree) e permite uso gratuito e quer ser reconhecido.
+licença - regras contratuais de uso. Github tem 12 tipos de licença. BSD é uma das mais comuns(Postgree) e permite uso gratuito e quer ser reconhecido.
 
 lei - controle; regra obrigatória de autoridade legítima; conjunto de atos normativos; toda lei tem uma contraparte punitiva para quem não a cumpre;
 

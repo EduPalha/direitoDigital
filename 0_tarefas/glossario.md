@@ -3,6 +3,8 @@ Neste arquivo, há algumas palavras e/ou expressões que ajudam na compreensão 
 
 ação - diferente de processo é uma solicitação que visa resguardar direitos adquiridos;
 
+adware - software malicioso auto executável que executa uma grande quantidade de anúncios;
+
 autos - conjunto de todas as entidades processuais;
 
 assédio - exposição de alguém a situações humilhantes;
@@ -20,6 +22,8 @@ home office - há uso de equipamento? uso de recursos pessoais? tempo e horário
 jec - juizado especial cívil para resolver conflitos simples e prestar serviços de forma mais objetiva; até 20 salários mínimos não necessita advogado; entre 20 - 40 precisa;
 
 jurisprudência - conjunto de interpretações das leis feitas pelos tribunais legítimos;
+
+licença - regras contratuais de uso. Github tem 12 tipos de licença. BSD é uma das mais comuns(APACHE, Postgree) e permite uso gratuito e quer ser reconhecido.
 
 lei - controle; regra obrigatória de autoridade legítima; conjunto de atos normativos; toda lei tem uma contraparte punitiva para quem não a cumpre;
 
@@ -42,5 +46,7 @@ registro - é uma forma de comprovar que o produto segue todas as normas e leis 
 regulamento - conjunto de disposições cujas as partes são as normas;
 
 sucumbência - perda de uma pretensão por decisão judicial;
+
+shareware - degustação de uso de um software;
 
 
